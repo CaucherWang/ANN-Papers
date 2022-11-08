@@ -67,12 +67,6 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 *David Alexander Tedjopurnomo, Zhifeng Bao, Baihua Zheng, Farhana Murtaza Choudhury, Kai Qin*
 
----
-
-[8] **A Survey of Hybrid Deep Learning Methods for Traffic Flow Prediction.** ICAIP 2019. [paper](https://dl.acm.org/doi/pdf/10.1145/3373419.3373429)
-
-*Yan Shi, Haoran Feng, Xiongfei Geng, Xingui Tang, Yongcai Wang*
-
 ### [GNN](#content)
 
 [1] **GRAPH ATTENTION NETWORKS.** ICLR 2018. [paper](https://arxiv.org/pdf/1710.10903.pdf)
