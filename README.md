@@ -1,4 +1,4 @@
-# Vector-Search-Papers
+# ANN-Papers
 
 <div align="center">
 <img border="0" src="https://camo.githubusercontent.com/54fdbe8888c0a75717d7939b42f3d744b77483b0/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f617765736f6d652e737667" />
@@ -20,12 +20,19 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 # Content
 
-- 
+- [Survey](https://github.com/Unstructured-Data-Community/ANN-Papers#survey)
+- [Graph based index](https://github.com/Unstructured-Data-Community/ANN-Papers#graph-based-index)
+- [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#query-optimization)
 
 ## Relevant papers
 
+### Survey
 
-### Graph Index
+[1] **A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search.** VLDB 2022. [paper](https://arxiv.org/pdf/2101.12631v1.pdf)
+
+*Mengzhao Wang, Xiaoliang Xu, Qiang Yue, Yuxiang Wang*
+
+### Graph based Index
 
 [1] **Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchial Navigable Small World Graphs.** IEEE Transactions on Pattern Analysis and Machine Intelligence 2020. [paper](https://arxiv.org/pdf/1603.09320.pdf)
 
@@ -79,3 +86,6 @@ ___
 
 Made with [contrib.rocks](https://contrib.rocks).
 
+## LICENSE
+
+[Apache-2.0 license](./LICENSE)
