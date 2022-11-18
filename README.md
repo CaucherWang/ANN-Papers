@@ -10,7 +10,9 @@
 
 # Introduction
 
+The project is a collection of recent research in areas such as ANN(Approximate Nearest Neighbor) and Vector Database, including research reports, academic papers and datasets etc.
 
+该项目收集了ANN（近似近邻搜索）和向量数据库等领域的最新研究，包括研究报告、学术论文和数据集等。
 
 # Contribution
 
@@ -18,12 +20,12 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 # Content
 
-
+- 
 
 ## Relevant papers
 
 
-### [Graph Index](#content)
+### Graph Index
 
 [1] **Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchial Navigable Small World Graphs.** IEEE Transactions on Pattern Analysis and Machine Intelligence 2020. [paper](https://arxiv.org/pdf/1603.09320.pdf)
 
@@ -50,7 +52,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 
 ___
 
-### [Query Optimization](#content)
+### Query Optimization
 
 [1] **Learning-based query optimization for multi-probe approximate nearest neighbor search.** VLDB 2022. [paper](https://link.springer.com/content/pdf/10.1007/s00778-022-00762-0.pdf)
 
@@ -69,11 +71,6 @@ ___
 *C Li, M Zhang, DG Andersen, Y He*
 
 ___
-
-### [Learned Index](#content)
-
-[1] 
-___
 ## Contributors
 
 <a href="https://github.com/Unstructured-Data-Community/Vector-Search-Papers/graphs/contributors">
@@ -82,6 +79,3 @@ ___
 
 Made with [contrib.rocks](https://contrib.rocks).
 
-# Stargazers over time
-
-[![Stargazers over time](https://starcharts.herokuapp.com/Unstructured-Data-Community/Vector-Search-Papers.svg)](https://github.com/Unstructured-Data-Community/Vector-Search-Papers)
