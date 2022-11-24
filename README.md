@@ -87,8 +87,8 @@ ___
 ___
 ## Contributors
 
-<a href="https://github.com/Unstructured-Data-Community/Vector-Search-Papers/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Unstructured-Data-Community/Vector-Search-Papers" />
+<a href="https://github.com/Unstructured-Data-Community/ANN-Papers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Unstructured-Data-Community/ANN-Papers" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
