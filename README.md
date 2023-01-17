@@ -28,8 +28,11 @@ Contributions are always welcome! Make an individual pull request for each sugge
 # Content
 
 - [Survey](https://github.com/Unstructured-Data-Community/ANN-Papers#survey)
-- [Graph based index](https://github.com/Unstructured-Data-Community/ANN-Papers#graph-based-index)
+- [Graph based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#graph-based-index)
 - [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#query-optimization)
+- [System](https://github.com/Unstructured-Data-Community/ANN-Papers#system)
+- [Hash based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#hash-based-index)
+- [Hardware adaptation](https://github.com/Unstructured-Data-Community/ANN-Papers#hardware-adaptation)
 
 ## Relevant papers
 
@@ -38,6 +41,8 @@ Contributions are always welcome! Make an individual pull request for each sugge
 [1] **A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search.** VLDB 2022. [paper](https://arxiv.org/pdf/2101.12631v1.pdf)
 
 *Mengzhao Wang, Xiaoliang Xu, Qiang Yue, Yuxiang Wang*
+
+___
 
 ### Graph based Index
 
@@ -54,7 +59,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 
 ---
 
-[3] **Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph.** VLDB 2019. [paper](https://arxiv.org/pdf/1707.00143.pdf)
+[3] **Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph.** Proceedings of the VLDB EndowmentVolume 12Issue 5January 2019 pp 461–474. [paper](https://arxiv.org/pdf/1707.00143.pdf)
 
 *Cong Fu, Chao Xiang, Changxu Wang, Deng Cai*
 
@@ -84,7 +89,44 @@ ___
 
 *C Li, M Zhang, DG Andersen, Y He*
 
+---
+
+[4] **HQANN: Efficient and Robust Similarity Search for Hybrid Queries with Structured and Unstructured Constraints.** CIKM '22: Proceedings of the 31st ACM International Conference on Information & Knowledge ManagementOctober 2022. [paper](https://arxiv.org/pdf/2207.07940.pdf)
+
+*Wei Wu, Junlin He, Yu Qiao, Guoheng Fu, Li Liu, Jin Yu*
+
+---
+
+[5] **AUTOMATING NEAREST NEIGHBOR SEARCH CONFIGURATION WITH CONSTRAINED OPTIMIZATION.** arXiv. [paper](https://arxiv.org/pdf/2301.01702.pdf)
+
+*Philip Sun, Ruiqi Guo, Sanjiv Kumar*
+
 ___
+
+### System
+
+[1] **Manu: A Cloud Native Vector Database Management System.** VLDB 2022. [paper](https://arxiv.org/pdf/2101.12631v1.pdf)
+
+*Rentong Guo, Xiaofan Luan, Long Xiang, and so on*
+
+___
+
+### Hash based Index
+
+[1] **MQH: Locality Sensitive Hashing on Multi-level Qantization Errors for Point-to-Hyperplane Distances.** VLDB 2022. [paper](https://www.vldb.org/pvldb/vol16/p864-lu.pdf)
+
+*Kejing Lu, Yoshiharu Ishikawa, Chuan Xiao*
+
+___
+
+### Hardware adaptation
+
+[1] **Implementing and Evaluating E2LSH on Storage.** Published in Proceedings of the 26th International Conference on Extending Database Technology (EDBT), 28th March-31st March, 2023. [paper](https://openproceedings.org/2023/conf/edbt/paper-20.pdf)
+
+*Yu Nakanishi, Kazuhiro Hiwada, Yosuke Bando, and so on*
+
+___
+
 ## Contributors
 
 <a href="https://github.com/Unstructured-Data-Community/ANN-Papers/graphs/contributors">
