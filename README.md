@@ -59,7 +59,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 
 ---
 
-[3] **Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph.** VLDB 2019. [paper](https://arxiv.org/pdf/1707.00143.pdf)
+[3] **Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph.** Proceedings of the VLDB EndowmentVolume 12Issue 5January 2019 pp 461–474. [paper](https://arxiv.org/pdf/1707.00143.pdf)
 
 *Cong Fu, Chao Xiang, Changxu Wang, Deng Cai*
 
@@ -85,7 +85,7 @@ ___
 
 ---
 
-[3] **Improving approximate nearest neighbor search through learned adaptive early termination.** VLDB 2022. [paper](https://dl.acm.org/doi/pdf/10.1145/3318464.3380600)
+[3] **Improving approximate nearest neighbor search through learned adaptive early termination.** SIGMOD 2020. [paper](https://dl.acm.org/doi/pdf/10.1145/3318464.3380600)
 
 *C Li, M Zhang, DG Andersen, Y He*
 
