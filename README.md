@@ -33,19 +33,19 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
   - 2.1 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#query-optimization)
   - 2.2 [System](https://github.com/Unstructured-Data-Community/ANN-Papers#system)
-  - 2.3 [New-hardware-acceleration](https://github.com/Unstructured-Data-Community/ANN-Papers#New-hardware-acceleration)
+  - 2.3 [New hardware acceleration](https://github.com/Unstructured-Data-Community/ANN-Papers#New-hardware-acceleration)
   - 2.4 [kNN-graph](https://github.com/Unstructured-Data-Community/ANN-Papers#kNN-graph)
 
 - 3 [Quantization](https://github.com/Unstructured-Data-Community/ANN-Papers#Quantization)
 
-  - 3.1 [New-hardware-acceleraton](https://github.com/Unstructured-Data-Community/ANN-Papers#New-hardware-acceleraton)
-  - 3.2 [Query-Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#Query-Optimization)
+  - 3.1 [New hardware acceleraton](https://github.com/Unstructured-Data-Community/ANN-Papers#New-hardware-acceleraton)
+  - 3.2 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#Query-Optimization)
 
-- 4 [Hash-based-Index](https://github.com/Unstructured-Data-Community/ANN-Papers#hash-based-index)
+- 4 [Hash based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#hash-based-index)
 
-  - 4.1 [Hardware-adaptation](https://github.com/Unstructured-Data-Community/ANN-Papers#hardware-adaptation)
-  - 4.2 [Query-Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#Query-Optimization)
-  - 4.3 [Learning-to-Hash(L2H)](https://github.com/Unstructured-Data-Community/ANN-Papers#Learning-to-Hash(L2H))
+  - 4.1 [Hardware adaptation](https://github.com/Unstructured-Data-Community/ANN-Papers#hardware-adaptation)
+  - 4.2 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#Query-Optimization)
+  - 4.3 [Learning to Hash(L2H)](https://github.com/Unstructured-Data-Community/ANN-Papers#Learning-to-Hash(L2H))
 
 ## Relevant papers
 
@@ -222,7 +222,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-#### 2.3 New-hardware-acceleration
+#### 2.3 New hardware acceleration
 
 
 [1]**GPU-accelerated Proximity Graph Approximate Nearest Neighbor Search and Construction.** ICDE 2022. [paper](https://ieeexplore.ieee.org/document/9835618)
@@ -478,7 +478,7 @@ ___
 ---
 
 
-#### 4.1 Hardware-adaptation
+#### 4.1 Hardware adaptation
 
 
 [1] **Implementing and Evaluating E2LSH on Storage.** Published in Proceedings of the 26th International Conference on Extending Database Technology (EDBT), 28th March-31st March, 2023. [paper](https://openproceedings.org/2023/conf/edbt/paper-20.pdf)
