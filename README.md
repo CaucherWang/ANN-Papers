@@ -41,7 +41,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
   - 3.1 [New-hardware-acceleraton](https://github.com/Unstructured-Data-Community/ANN-Papers#New-hardware-acceleraton)
   - 3.2 [Query-Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#Query-Optimization)
 
-- 4 [Hash based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#hash-based-index)
+- 4 [Hash-based-Index](https://github.com/Unstructured-Data-Community/ANN-Papers#hash-based-index)
 
   - 4.1 [Hardware-adaptation](https://github.com/Unstructured-Data-Community/ANN-Papers#hardware-adaptation)
   - 4.2 [Query-Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#Query-Optimization)
@@ -61,6 +61,12 @@ Contributions are always welcome! Make an individual pull request for each sugge
 （必读）[2] **Approximate Nearest Neighbor Search on High Dimensional Data — Experiments, Analyses, and Improvement.** IEEE Transactions on Knowledge and Data Engineering 2020.[paper](https://arxiv.org/pdf/1610.02455.pdf)
 
 *Wen Li, Ying Zhang , Yifang Sun, Wei Wang, Mingjie Li , Wenjie Zhang , Xuemin Lin*
+
+---
+
+[3] **Survey on KNN Methods in Data Science**LNCS 2023. [paper](https://link.springer.com/chapter/10.1007/978-3-031-24866-5_28)
+
+*Panos K. Syriopoulos, Sotiris B. Kotsiantis & Michael N. Vrahatis*
 
 ---
 
@@ -201,11 +207,17 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 
 *Rentong Guo, Xiaofan Luan, Long Xiang, and so on*
 
-___
+---
 
 [2] **LANNS: a web-scale approximate nearest neighbor lookup system** VLDB 2021. [paper](https://arxiv.org/pdf/2010.09426.pdf)
 
 *Ishita Doshi, Dhritiman Das, Ashish Bhutani, Rajeev Kumar, Rushi Bhatt, Niranjan Balasubramanian*
+
+---
+
+[3] **ANNA: Specialized Architecture for Approximate Nearest Neighbor Search** HPCA 2022. [paper](https://ieeexplore.ieee.org/document/9773206)
+
+*Yejin Lee; Hyunji Choi; Sunhong Min; Hyunseung Lee; Sangwon Beak; Dawoon Jeong; Jae W. Lee; Tae Jun Ham*
 
 ---
 
@@ -466,7 +478,7 @@ ___
 ---
 
 
-#### 4.1 Hardware adaptation
+#### 4.1 Hardware-adaptation
 
 
 [1] **Implementing and Evaluating E2LSH on Storage.** Published in Proceedings of the 26th International Conference on Extending Database Technology (EDBT), 28th March-31st March, 2023. [paper](https://openproceedings.org/2023/conf/edbt/paper-20.pdf)
@@ -478,6 +490,12 @@ ___
 [2] **Randomized Algorithms Accelerated over CPU-GPU for Ultra-High Dimensional Similarity Search** SIGMOD 2018. [paper](https://dl.acm.org/doi/10.1145/3183713.3196925)
 
 *Yiqiu Wang, Anshumali Shrivastava, Jonathan Wang, Junghee Ryu*
+
+---
+
+[3] **GPU-accelerated Proximity Graph Approximate Nearest Neighbor Search and Construction** ICDE 2022. [paper](https://ieeexplore.ieee.org/document/9835618)
+
+*Yuanhang Yu; Dong Wen; Ying Zhang; Lu Qin; Wenjie Zhang; Xuemin Lin*
 
 ---
 
