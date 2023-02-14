@@ -373,7 +373,9 @@ ___
 #### 3.1 New hardware acceleration
 
 
-[1] **Tree Quantization for Large-Scale Similarity Search and Classification** arXiv 2018. [paper]
+[1] **Tree Quantization for Large-Scale Similarity Search and Classification** arXiv 2018. [paper](https://ieeexplore.ieee.org/document/7299052/)
+
+*Artem Babenko, Victor Lempitsky*
 
 ---
 
@@ -381,11 +383,15 @@ ___
 #### 3.2 Query Optimization
 
 
-[1] **Cache locality is not enough: high-performance nearest neighbor search with product quantization fast scan** VLDB 2015. [paper]
+[1] **Cache locality is not enough: high-performance nearest neighbor search with product quantization fast scan** VLDB 2015. [paper](https://vldb.org/pvldb/vol9/p288-andre.pdf)
+
+*Fabien André, Anne-Marie Kermarrec, Nicolas Le Scouarnec*
 
 ---
 
-[2] **Accelerating Product Quantization Query Execution Runtime** SIGMOD 2021. [paper]
+[2] **Accelerating Product Quantization Query Execution Runtime** SIGMOD 2021. [paper](https://dl.acm.org/doi/10.1145/3448016.3450574)
+
+*Ikraduya Edian*
 
 ---
 
@@ -399,43 +405,63 @@ ___
 
 ___
 
-（必读）[2] **SRS: solving c -approximate nearest neighbor queries in high dimensional euclidean space with a tiny index** VLDB 2014. [paper]
+（必读）[2] **SRS: solving c -approximate nearest neighbor queries in high dimensional euclidean space with a tiny index** VLDB 2014. [paper](https://vldb.org/pvldb/vol8/p1-sun.pdf)
+
+*Yifang Sun, Wei Wang, Jianbin Qin, Ying Zhang, Xuemin Lin*
 
 ---
 
-[3] **iDEC: indexable distance estimating codes for approximate nearest neighbor search** VLDB 2020. [paper]
+[3] **iDEC: indexable distance estimating codes for approximate nearest neighbor search** VLDB 2020. [paper](https://vldb.org/pvldb/vol13/p1483-gong.pdf)
+
+*Long Gong, Huayi Wang, Mitsunori Ogihara, Jun Xu*
 
 ---
 
-[4] **VHP: approximate nearest neighbor search via virtual hypersphere partitioning** VLDB 2020. [paper]
+[4] **VHP: approximate nearest neighbor search via virtual hypersphere partitioning** VLDB 2020. [paper](https://dl.acm.org/doi/10.14778/3397230.3397240)
+
+*Kejing Lu, Hongya Wang, Wei Wang, Mineichi Kudo*
 
 ---
 
-[5] **Query-aware locality-sensitive hashing for approximate nearest neighbor search** VLDB 2015. [paper]
+[5] **Query-aware locality-sensitive hashing for approximate nearest neighbor search** VLDB 2015. [paper](https://dl.acm.org/doi/abs/10.14778/2850469.2850470)
+
+*Qiang Huang, Jianlin Feng, Yikai Zhang, Qiong Fang, Wilfred Ng*
 
 ---
 
-[6] **R2LSH: A Nearest Neighbor Search Scheme Based on Two-dimensional Projected Spaces** ICDE 2020. [paper]
+[6] **R2LSH: A Nearest Neighbor Search Scheme Based on Two-dimensional Projected Spaces** ICDE 2020. [paper](https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300b045/290300b045.pdf)
+
+*Kejing Lu, Mineichi Kudo*
 
 ---
 
-[7] **PM-LSH: a fast and accurate in-memory framework for high-dimensional approximate NN and closest pair search** VLDBJ 2021. [paper]
+[7] **PM-LSH: a fast and accurate in-memory framework for high-dimensional approximate NN and closest pair search** VLDBJ 2021. [paper](https://link.springer.com/article/10.1007/s00778-021-00680-7)
+
+*Bolong Zheng, Xi Zhao, Lianggui Weng, Quoc Viet Hung Nguyen, Hang Liu & Christian S. Jensen*
 
 ---
 
-[8] **DSH: Data Sensitive Hashing for High-Dimensional k-NN Search** SIGMOD 2014. [paper]
+[8] **DSH: Data Sensitive Hashing for High-Dimensional k-NN Search** SIGMOD 2014. [paper](https://arxiv.org/pdf/1205.2930.pdf)
+
+*Jinyang Gao, Hosagrahar Visvesvaraya Jagadish, Wei Lu, Beng Chin Ooi*
 
 ---
 
-[9] **Locality-sensitive hashing scheme based on dynamic collision counting** SIGMOD 2012. [paper]
+[9] **Locality-sensitive hashing scheme based on dynamic collision counting** SIGMOD 2012. [paper](https://dl.acm.org/doi/10.1145/2213836.2213898)
+
+*Junhao Gan, Jianlin Feng, Qiong Fang, Wilfred Ng*
 
 ---
 
-[10] **Quality and efficiency in high dimensional nearest neighbor search** SIGMOD 2009. [paper]
+[10] **Quality and efficiency in high dimensional nearest neighbor search** SIGMOD 2009. [paper](https://dl.acm.org/doi/10.1145/1559845.1559905)
+
+*Yufei Tao, Ke Yi, Cheng Sheng, Panos Kalnis*
 
 ---
 
-[11] **Multi-Probe LSH: Efficient Indexing for High-Dimensional Similarity Search** VLDB 2007. [paper]
+[11] **Multi-Probe LSH: Efficient Indexing for High-Dimensional Similarity Search** VLDB 2007. [paper](https://www.cs.princeton.edu/cass/papers/mplsh_vldb07.pdf)
+
+*Qin Lv, William Josephson, Zhe Wang, Moses Charikar, Kai Li*
 
 ---
 
@@ -449,7 +475,9 @@ ___
 
 ___
 
-[2] **Randomized Algorithms Accelerated over CPU-GPU for Ultra-High Dimensional Similarity Search** SIGMOD 2018. [paper]
+[2] **Randomized Algorithms Accelerated over CPU-GPU for Ultra-High Dimensional Similarity Search** SIGMOD 2018. [paper](https://dl.acm.org/doi/10.1145/3183713.3196925)
+
+*Yiqiu Wang, Anshumali Shrivastava, Jonathan Wang, Junghee Ryu*
 
 ---
 
@@ -457,7 +485,9 @@ ___
 #### 4.2 Query Optimization
 
 
-**EI-LSH: An early-termination driven I/O efficient incremental c-approximate nearest neighbor search** VLDBJ 2021. [paper]
+**EI-LSH: An early-termination driven I/O efficient incremental c-approximate nearest neighbor search** VLDBJ 2021. [paper](https://link.springer.com/article/10.1007/s00778-020-00635-4)
+
+*Wanqi Liu, Hanchen Wang, Ying Zhang, Wei Wang, Lu Qin & Xuemin Lin*
 
 ---
 
