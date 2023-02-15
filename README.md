@@ -25,6 +25,8 @@ Contributions are always welcome! Make an individual pull request for each sugge
 # Paper Reading Togeter 🥰
 [paper reading list](https://github.com/Unstructured-Data-Community/talk/blob/main/paper-reading.md)
 
+![image](./ANN-Papers.png)
+
 # Content
 
 - 1 [Survey](https://github.com/Unstructured-Data-Community/ANN-Papers#survey)
@@ -53,16 +55,16 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ## Relevant papers
 
-### 1 Survey [more](./Survey.md)
+### 1 Survey [more](./content/Survey.md)
 
 
-（必读）[1] **Approximate Nearest Neighbor Search on High Dimensional Data — Experiments, Analyses, and Improvement.** TKDE 2020.[paper](https://arxiv.org/pdf/1610.02455.pdf)
+(必读)[1] **Approximate Nearest Neighbor Search on High Dimensional Data — Experiments, Analyses, and Improvement** TKDE 2020.[paper](https://arxiv.org/pdf/1610.02455.pdf)
 
 *Wen Li, Ying Zhang , Yifang Sun, Wei Wang, Mingjie Li , Wenjie Zhang , Xuemin Lin*
 
 ---
 
-（必读）[2] **New trends in high-D vector similarity search: al-driven, progressive, and distributed** VLDB 2021. [paper](http://vldb.org/pvldb/vol14/p3198-echihabi.pdf)[slid](https://vldb.org/2021/files/slides/tutorial/tutorial5.pdf)
+(必读)[2] **New trends in high-D vector similarity search: al-driven, progressive, and distributed** VLDB 2021. [paper](http://vldb.org/pvldb/vol14/p3198-echihabi.pdf)[slid](https://vldb.org/2021/files/slides/tutorial/tutorial5.pdf)
 
 *Karima Echihabi, Kostas Zoumpatianos, Themis Palpanas*
 
@@ -77,29 +79,29 @@ Contributions are always welcome! Make an individual pull request for each sugge
 ---
 
 
-### 2 Graph based Index [more](./Graph-based-Index.md)
+### 2 Graph based Index [more](./content/Graph-based-Index.md)
 
 
-(必读)[1] **Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchial Navigable Small World Graphs.** HNSW 2020. [paper](https://arxiv.org/pdf/1603.09320.pdf)
+(必读)[1] **Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchial Navigable Small World Graphs** HNSW 2020. [paper](https://arxiv.org/pdf/1603.09320.pdf)
 
 *Yu A. Malkov, D. A. Yashunin*
 
 ---
 
-[2]（[1]的基础，可作为参考） **Approximate nearest neighbor algorithm based on navigable small world graphs.** Information Systems
+[2]（[1]的基础，可作为参考） **Approximate nearest neighbor algorithm based on navigable small world graphs** Information Systems
 Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306437913001300)
 
 *Yury Malkov, Alexander Ponomarenko, Andrey Logvinov, Vladimir Krylov*
 
 ---
 
-（必读）[3] **A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search.** VLDB 2022. [paper](https://arxiv.org/pdf/2101.12631v1.pdf)
+(必读)[3] **A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search** VLDB 2022. [paper](https://arxiv.org/pdf/2101.12631v1.pdf)
 
 *Mengzhao Wang, Xiaoliang Xu, Qiang Yue, Yuxiang Wang*
 
 ---
 
-（必读）[4] **Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph.** VLDB 2019. [paper](https://arxiv.org/pdf/1707.00143.pdf)
+(必读)[4] **Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph** VLDB 2019. [paper](https://arxiv.org/pdf/1707.00143.pdf)
 
 *Cong Fu, Chao Xiang, Changxu Wang, Deng Cai*
 
@@ -130,28 +132,28 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-### 3 Quantization based Index [more](./Quantization-based-Index.md)
+### 3 Quantization based Index [more](./content/Quantization-based-Index.md)
 
 
-（必读）[1] **Product Quantization for Nearest Neighbor Search** TPAMI 2019. [paper](https://hal.inria.fr/inria-00514462v2/document)
+(必读)[1] **Product Quantization for Nearest Neighbor Search** TPAMI 2019. [paper](https://hal.inria.fr/inria-00514462v2/document)
 
 *Herve J ´ egou, Matthijs Douze, Cordelia Schmid*
 
 ---
 
-（必读）[2] **Optimized Product Quantization** TPAMI 2013. [paper](https://ieeexplore.ieee.org/document/6678503)
+(必读)[2] **Optimized Product Quantization** TPAMI 2013. [paper](https://ieeexplore.ieee.org/document/6678503)
 
 *Tiezheng Ge, Kaiming He, Qifa Ke, Jian Sun*
 
 ---
 
-（必读）[3] **The Inverted Multi-Index** TPAMI 2014. [paper](https://ieeexplore.ieee.org/document/6915715)
+(必读)[3] **The Inverted Multi-Index** TPAMI 2014. [paper](https://ieeexplore.ieee.org/document/6915715)
 
 *Artem Babenko, Victor Lempitsky*
 
 ---
 
-（必读）[4] **Additive Quantization for Extreme Vector Compression** CVPR 2014. [paper](https://ieeexplore.ieee.org/document/6909519/)
+(必读)[4] **Additive Quantization for Extreme Vector Compression** CVPR 2014. [paper](https://ieeexplore.ieee.org/document/6909519/)
 
 *Artem Babenko, Victor Lempitsky*
 
@@ -180,7 +182,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-### 4 Hash based Index [more](./Hash-based-Index.md)
+### 4 Hash based Index [more](./content/Hash-based-Index.md)
 
 
 (必读)[1] **Similarity Search in High Dimensions via Hashing** VLDB 1999. [paper](https://www.vldb.org/conf/1999/P49.pdf)
@@ -234,7 +236,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-### 5 Tree based Index [more](./Tree-based-Index.md)
+### 5 Tree based Index [more](./content/Tree-based-Index.md)
 
 
 (必读)[1]**Data Structures and Algorithms for Nearest Neighbor Search in General Metric Spaces** SODA 1993. [paper](https://dl.acm.org/doi/pdf/10.5555/313559.313789)
@@ -250,7 +252,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-### 6 Disk based Index [more](./Disk-based-Index.md)
+### 6 Disk based Index [more](./content/Disk-based-Index.md)
 
 
 待补充
