@@ -25,6 +25,14 @@ Contributions are always welcome! Make an individual pull request for each sugge
 # Paper Reading Togeter 🥰
 [paper reading list](https://github.com/Unstructured-Data-Community/talk/blob/main/paper-reading.md)
 
+# Content
+
+- 4 [Hash-based-Index](https://github.com/Unstructured-Data-Community/ANN-Papers/content#hash-based-index)
+
+  - 4.1 [New-hardware-adaptation](https://github.com/Unstructured-Data-Community/ANN-Papers/content#new-hardware-adaptation)
+  - 4.2 [Query-Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers/content#Query-Optimization)
+  - 4.3 [Learning-to-Hash(L2H)](https://github.com/Unstructured-Data-Community/ANN-Papers/content#Learning-to-Hash(L2H))
+  
 ## Relevant papers
 
 ### 4 Hash based Index
