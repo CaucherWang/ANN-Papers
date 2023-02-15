@@ -28,45 +28,77 @@ Contributions are always welcome! Make an individual pull request for each sugge
 # Content
 
 - 1 [Survey](https://github.com/Unstructured-Data-Community/ANN-Papers#survey)
+  - 1.1 [System](https://github.com/Unstructured-Data-Community/ANN-Papers#system)
 
 - 2 [Graph based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#graph-based-index)
 
   - 2.1 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#query-optimization)
-  - 2.2 [System](https://github.com/Unstructured-Data-Community/ANN-Papers#system)
-  - 2.3 [New hardware acceleration](https://github.com/Unstructured-Data-Community/ANN-Papers#New-hardware-acceleration)
-  - 2.4 [kNN-graph](https://github.com/Unstructured-Data-Community/ANN-Papers#kNN-graph)
+  - 2.2 [New hardware acceleration](https://github.com/Unstructured-Data-Community/ANN-Papers#New-hardware-acceleration)
+  - 2.3 [kNN-graph](https://github.com/Unstructured-Data-Community/ANN-Papers#kNN-graph)
 
-- 3 [Quantization](https://github.com/Unstructured-Data-Community/ANN-Papers#Quantization)
+- 3 [Quantization based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#Quantization-based-index)
 
   - 3.1 [New hardware acceleraton](https://github.com/Unstructured-Data-Community/ANN-Papers#New-hardware-acceleraton)
   - 3.2 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#Query-Optimization)
 
 - 4 [Hash based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#hash-based-index)
 
-  - 4.1 [Hardware adaptation](https://github.com/Unstructured-Data-Community/ANN-Papers#hardware-adaptation)
+  - 4.1 [New hardware adaptation](https://github.com/Unstructured-Data-Community/ANN-Papers#new-hardware-adaptation)
   - 4.2 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#Query-Optimization)
   - 4.3 [Learning to Hash(L2H)](https://github.com/Unstructured-Data-Community/ANN-Papers#Learning-to-Hash(L2H))
+  
+- 5 [Tree based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#tree-based-index)
+
+- 6 [Disk based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#dish-based-index)
 
 ## Relevant papers
 
 ### 1 Survey
 
 
-[1] **A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search.** VLDB 2022. [paper](https://arxiv.org/pdf/2101.12631v1.pdf)
-
-*Mengzhao Wang, Xiaoliang Xu, Qiang Yue, Yuxiang Wang*
-
----
-
-（必读）[2] **Approximate Nearest Neighbor Search on High Dimensional Data — Experiments, Analyses, and Improvement.** IEEE Transactions on Knowledge and Data Engineering 2020.[paper](https://arxiv.org/pdf/1610.02455.pdf)
+（必读）[1] **Approximate Nearest Neighbor Search on High Dimensional Data — Experiments, Analyses, and Improvement.** TKDE 2020.[paper](https://arxiv.org/pdf/1610.02455.pdf)
 
 *Wen Li, Ying Zhang , Yifang Sun, Wei Wang, Mingjie Li , Wenjie Zhang , Xuemin Lin*
 
 ---
 
-[3] **Survey on KNN Methods in Data Science**LNCS 2023. [paper](https://link.springer.com/chapter/10.1007/978-3-031-24866-5_28)
+（必读）[2] **New trends in high-D vector similarity search: al-driven, progressive, and distributed** VLDB 2021. [paper](http://vldb.org/pvldb/vol14/p3198-echihabi.pdf)[slid](https://vldb.org/2021/files/slides/tutorial/tutorial5.pdf)
+
+*Karima Echihabi, Kostas Zoumpatianos, Themis Palpanas*
+
+---
+
+[3] **A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search.** VLDB 2022. [paper](https://arxiv.org/pdf/2101.12631v1.pdf)
+
+*Mengzhao Wang, Xiaoliang Xu, Qiang Yue, Yuxiang Wang*
+
+---
+
+[4] **Survey on KNN Methods in Data Science**LNCS 2023. [paper](https://link.springer.com/chapter/10.1007/978-3-031-24866-5_28)
 
 *Panos K. Syriopoulos, Sotiris B. Kotsiantis & Michael N. Vrahatis*
+
+---
+
+
+#### 1.1 System
+
+
+[1] **Manu: A Cloud Native Vector Database Management System.** VLDB 2022. [paper](https://arxiv.org/pdf/2101.12631v1.pdf)
+
+*Rentong Guo, Xiaofan Luan, Long Xiang, and so on*
+
+---
+
+[2] **LANNS: a web-scale approximate nearest neighbor lookup system** VLDB 2021. [paper](https://arxiv.org/pdf/2010.09426.pdf)
+
+*Ishita Doshi, Dhritiman Das, Ashish Bhutani, Rajeev Kumar, Rushi Bhatt, Niranjan Balasubramanian*
+
+---
+
+[3] **ANNA: Specialized Architecture for Approximate Nearest Neighbor Search** HPCA 2022. [paper](https://ieeexplore.ieee.org/document/9773206)
+
+*Yejin Lee; Hyunji Choi; Sunhong Min; Hyunseung Lee; Sangwon Beak; Dawoon Jeong; Jae W. Lee; Tae Jun Ham*
 
 ---
 
@@ -74,80 +106,74 @@ Contributions are always welcome! Make an individual pull request for each sugge
 ### 2 Graph based Index
 
 
-[1] **Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchial Navigable Small World Graphs.** IEEE Transactions on Pattern Analysis and Machine Intelligence 2020. [paper](https://arxiv.org/pdf/1603.09320.pdf)
+(必读)[1] **Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchial Navigable Small World Graphs.** HNSW 2020. [paper](https://arxiv.org/pdf/1603.09320.pdf)
 
 *Yu A. Malkov, D. A. Yashunin*
 
 ---
 
-（必读）[2] **Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchial Navigable Small World Graphs.** IEEE Transactions on Pattern Analysis and Machine Intelligence 2020. [paper](https://arxiv.org/pdf/1603.09320.pdf)
-
-*Yu A. Malkov, D. A. Yashunin*
-
----
-
-[3]（[2]的基础，可作为参考） **Approximate nearest neighbor algorithm based on navigable small world graphs.** Information Systems
+[2]（[1]的基础，可作为参考） **Approximate nearest neighbor algorithm based on navigable small world graphs.** Information Systems
 Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306437913001300)
 
 *Yury Malkov, Alexander Ponomarenko, Andrey Logvinov, Vladimir Krylov*
 
 ---
 
-（必读）[4] **A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search.** VLDB 2022. [paper](https://arxiv.org/pdf/2101.12631v1.pdf)
+（必读）[3] **A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search.** VLDB 2022. [paper](https://arxiv.org/pdf/2101.12631v1.pdf)
 
 *Mengzhao Wang, Xiaoliang Xu, Qiang Yue, Yuxiang Wang*
 
 ---
 
-[5] **Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph.** VLDB 2019. [paper](https://arxiv.org/pdf/1707.00143.pdf)
+（必读）[4] **Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph.** VLDB 2019. [paper](https://arxiv.org/pdf/1707.00143.pdf)
 
 *Cong Fu, Chao Xiang, Changxu Wang, Deng Cai*
 
 ---
 
-[6] **HVS: Hierarchical Graph Structure Based on Voronoi Diagrams for Solving Approximate Nearest Neighbor Search.** VLDB 2022. [paper](http://www.vldb.org/pvldb/vol15/p246-lu.pdf)
+[5] **HVS: Hierarchical Graph Structure Based on Voronoi Diagrams for Solving Approximate Nearest Neighbor Search.** VLDB 2022. [paper](http://www.vldb.org/pvldb/vol15/p246-lu.pdf)
 
 *K Lu, M Kudo, C Xiao, Y Ishikawa*
 
 ---
 
-[7] **High Dimensional Similarity Search with Satellite System Graph: Efficiency, Scalability, and Unindexed Query Compatibility.** TPAMI 2021. [paper](https://arxiv.org/pdf/1907.06146.pdf)
+[6] **High Dimensional Similarity Search with Satellite System Graph: Efficiency, Scalability, and Unindexed Query Compatibility.** TPAMI 2021. [paper](https://arxiv.org/pdf/1907.06146.pdf)
 
 *Fu, C., Wang, C. and Cai, D*
 
 ---
 
-[8] **DiskANN: Fast Accurate Billion-point Nearest Neighbor Search on a Single Node.** NIPS 2019. [paper](https://dl.acm.org/doi/pdf/10.5555/3454287.3455520)
+[7] **DiskANN: Fast Accurate Billion-point Nearest Neighbor Search on a Single Node.** NIPS 2019. [paper](https://dl.acm.org/doi/pdf/10.5555/3454287.3455520)
 
 *Suhas Jayaram Subramanya, Devvrit, Rohan Kadekodi, Ravishankar Krishaswamy, Harsha Vardhan Simhadri*
 
 ---
 
-[9] **FreshDiskANN: A Fast and Accurate Graph-Based ANN Index for Streaming Similarity Search.** *arXiv* 2021. [paper](https://arxiv.org/pdf/2105.09613.pdf)
+[8] **FreshDiskANN: A Fast and Accurate Graph-Based ANN Index for Streaming Similarity Search.** *arXiv* 2021. [paper](https://arxiv.org/pdf/2105.09613.pdf)
 
 *Singh, A., Subramanya, S.J., Krishnaswamy, R. and Simhadri, H.V.*
 
 ---
 
-[10] **EFANNA : An Extremely Fast Approximate Nearest Neighbor Search Algorithm Based on kNN Graph.** arXiv 2016. [paper](https://arxiv.org/pdf/1609.07228.pdf)
+[9] **EFANNA : An Extremely Fast Approximate Nearest Neighbor Search Algorithm Based on kNN Graph.** arXiv 2016. [paper](https://arxiv.org/pdf/1609.07228.pdf)
 
 *Fu, C. and Cai, D.*
 
 ---
 
-[11] **FANNG: Fast Approximate Nearest Neighbour Graphs.** CVPR 2016. [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Harwood_FANNG_Fast_Approximate_CVPR_2016_paper.pdf)
+[10] **FANNG: Fast Approximate Nearest Neighbour Graphs.** CVPR 2016. [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Harwood_FANNG_Fast_Approximate_CVPR_2016_paper.pdf)
 
 *Ben Harwood and Tom Drummond*
 
 ---
 
-[12] **Graph-based Nearest Neighbor Search: From Practice to Theory.** ICML 2020. [paper](https://arxiv.org/pdf/1907.00845.pdf)
+[11] **Graph-based Nearest Neighbor Search: From Practice to Theory.** ICML 2020. [paper](https://arxiv.org/pdf/1907.00845.pdf)
 
 *Liudmila Prokhorenkova, Aleksandr Shekhovtsov*
 
 ---
 
-[13] **GraSP: Optimizing Graph-based Nearest Neighbor Search with Subgraph Sampling and Pruning** WSDM 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3488560.3498425)
+[12] **GraSP: Optimizing Graph-based Nearest Neighbor Search with Subgraph Sampling and Pruning** WSDM 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3488560.3498425)
 
 *Minjia Zhang, Wenhan Wang, Yuxiong He*
 
@@ -200,29 +226,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-#### 2.2 System
-
-
-[1] **Manu: A Cloud Native Vector Database Management System.** VLDB 2022. [paper](https://arxiv.org/pdf/2101.12631v1.pdf)
-
-*Rentong Guo, Xiaofan Luan, Long Xiang, and so on*
-
----
-
-[2] **LANNS: a web-scale approximate nearest neighbor lookup system** VLDB 2021. [paper](https://arxiv.org/pdf/2010.09426.pdf)
-
-*Ishita Doshi, Dhritiman Das, Ashish Bhutani, Rajeev Kumar, Rushi Bhatt, Niranjan Balasubramanian*
-
----
-
-[3] **ANNA: Specialized Architecture for Approximate Nearest Neighbor Search** HPCA 2022. [paper](https://ieeexplore.ieee.org/document/9773206)
-
-*Yejin Lee; Hyunji Choi; Sunhong Min; Hyunseung Lee; Sangwon Beak; Dawoon Jeong; Jae W. Lee; Tae Jun Ham*
-
----
-
-
-#### 2.3 New hardware acceleration
+#### 2.2 New hardware acceleration
 
 
 [1]**GPU-accelerated Proximity Graph Approximate Nearest Neighbor Search and Construction.** ICDE 2022. [paper](https://ieeexplore.ieee.org/document/9835618)
@@ -250,7 +254,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-#### 2.4 kNN-graph
+#### 2.3 kNN-graph
 
 
 [1] **Efficient k-nearest neighbor graph construction for generic similarity measures.** WWW 2011. [paper](https://www.cs.princeton.edu/cass/papers/www11.pdf)
@@ -272,7 +276,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-### 3 Quantization
+### 3 Quantization based Index
 
 
 （必读）[1] **Product Quantization for Nearest Neighbor Search** TPAMI 2019. [paper](https://hal.inria.fr/inria-00514462v2/document)
@@ -317,7 +321,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 
 ---
 
-[8] **Additive Quantization for Extreme Vector Compression** CVPR 2014. [paper](https://ieeexplore.ieee.org/document/6909519/)
+（必读）[8] **Additive Quantization for Extreme Vector Compression** CVPR 2014. [paper](https://ieeexplore.ieee.org/document/6909519/)
 
 *Artem Babenko, Victor Lempitsky*
 
@@ -381,6 +385,14 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 
 *Dmitry Baranchuk, Artem Babenko, Yury Malkov*
 
+---
+
+(必读)[19]**Accelerating Large-Scale Inference with Anisotropic Vector Quantization** 	ICML 2020. [paper](https://arxiv.org/pdf/1908.10396.pdf)
+
+*Ruiqi Guo, Philip Sun, Erik Lindgren*
+
+---
+
 
 #### 3.1 New hardware acceleration
 
@@ -415,11 +427,29 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 
 *Kejing Lu, Yoshiharu Ishikawa, Chuan Xiao*
 
-___
+---
 
-（必读）[2] **SRS: solving c -approximate nearest neighbor queries in high dimensional euclidean space with a tiny index** VLDB 2014. [paper](https://vldb.org/pvldb/vol8/p1-sun.pdf)
+(必读)[1] **Similarity Search in High Dimensions via Hashing** VLDB 1999. [paper](https://www.vldb.org/conf/1999/P49.pdf)
+
+*Aristides Gionis, Piotr Indyk, Rajeev Motwani*
+
+---
+
+(必读)[2] **SRS: solving c -approximate nearest neighbor queries in high dimensional euclidean space with a tiny index** VLDB 2014. [paper](https://vldb.org/pvldb/vol8/p1-sun.pdf)
 
 *Yifang Sun, Wei Wang, Jianbin Qin, Ying Zhang, Xuemin Lin*
+
+---
+
+(必读)[3] **Locality-Sensitive Hashing Scheme Based on p-Stable Distributions** SCG 2004.[paper](https://dl.acm.org/doi/10.1145/997817.997857)
+
+*Mayur Datar, Nicole Immorlica, Piotr Indyk, Vahab S. Mirrokni*
+
+---
+
+(必读)[4] **Query-aware locality-sensitive hashing for approximate nearest neighbor search** VLDB 2015. [paper](https://dl.acm.org/doi/10.14778/2850469.2850470)
+
+*Qiang Huang, Jianlin Feng, Yikai Zhang*
 
 ---
 
@@ -512,6 +542,31 @@ ___
 
 
 #### 4.3 Learning to Hash (L2H)
+
+
+待补充
+
+
+---
+
+
+### 5 Tree based Index
+
+
+(必读)[1]**Data Structures and Algorithms for Nearest Neighbor Search in General Metric Spaces** SODA 1993. [paper](https://dl.acm.org/doi/pdf/10.5555/313559.313789)
+
+*Peter N. Yianilos*
+
+---
+
+(必读)[2]**Fast Nearest Neighbor Retrieval for Bregman Divergences** ICML 2008. [paper](https://dl.acm.org/doi/10.1145/1390156.1390171)
+
+*Lawrence Cayton*
+
+---
+
+
+### 6 Disk based Index
 
 
 待补充
