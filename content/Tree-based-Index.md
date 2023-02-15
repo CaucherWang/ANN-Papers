@@ -27,11 +27,11 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 # Content
 
-- 5 [Tree-based-Index](https://github.com/Unstructured-Data-Community/ANN-Papers/content#tree-based-index)
+- 5 [Tree based Index](https://github.com/Unstructured-Data-Community/ANN-Papers/content#5-tree-based-index)
 
 ## Relevant papers
 
-### 5 Tree-based-Index
+### 5 Tree based Index
 
 
 (必读)[1]**Data Structures and Algorithms for Nearest Neighbor Search in General Metric Spaces** SODA 1993. [paper](https://dl.acm.org/doi/pdf/10.5555/313559.313789)
