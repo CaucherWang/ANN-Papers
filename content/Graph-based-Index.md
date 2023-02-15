@@ -27,11 +27,11 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 # Content
 
-- 2 [Graph based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#graph-based-index)
+- 2 [Graph-based-Index](https://github.com/Unstructured-Data-Community/ANN-Papers/content#2-graph-based-index)
 
-  - 2.1 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#query-optimization)
-  - 2.2 [New hardware acceleration](https://github.com/Unstructured-Data-Community/ANN-Papers#New-hardware-acceleration)
-  - 2.3 [kNN-graph](https://github.com/Unstructured-Data-Community/ANN-Papers#kNN-graph)
+  - 2.1 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers/content#21-query-optimization)
+  - 2.2 [New hardware acceleration](https://github.com/Unstructured-Data-Community/ANN-Papers/content#22-new-hardware-acceleration)
+  - 2.3 [kNN graph](https://github.com/Unstructured-Data-Community/ANN-Papers/content#24-knn-graph)
 
 ## Relevant papers
 
