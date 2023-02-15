@@ -25,6 +25,13 @@ Contributions are always welcome! Make an individual pull request for each sugge
 # Paper Reading Togeter 🥰
 [paper reading list](https://github.com/Unstructured-Data-Community/talk/blob/main/paper-reading.md)
 
+# Content
+
+- 3 [Quantization based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#Quantization-based-index)
+
+  - 3.1 [New hardware acceleraton](https://github.com/Unstructured-Data-Community/ANN-Papers#New-hardware-acceleraton)
+  - 3.2 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#Query-Optimization)
+
 ## Relevant papers
 
 ### 3 Quantization based Index
