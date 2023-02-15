@@ -30,7 +30,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 ### 6 Disk based Index
 
 
-待补充
+待补充，持续更新中……
 
 
 ___
