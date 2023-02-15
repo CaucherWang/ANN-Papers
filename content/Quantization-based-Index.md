@@ -27,10 +27,10 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 # Content
 
-- 3 [Quantization based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#Quantization-based-index)
+- 3 [Quantization based Index](https://github.com/Unstructured-Data-Community/ANN-Papers/content#3-quantization-based-index)
 
-  - 3.1 [New hardware acceleraton](https://github.com/Unstructured-Data-Community/ANN-Papers#New-hardware-acceleraton)
-  - 3.2 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#Query-Optimization)
+  - 3.1 [New hardware acceleraton](https://github.com/Unstructured-Data-Community/ANN-Papers/content#31-new-hardware-acceleraton)
+  - 3.2 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers/content#32-query-optimization)
 
 ## Relevant papers
 
