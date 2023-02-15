@@ -35,7 +35,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
   
 ## Relevant papers
 
-### 4 Hash based Index
+### 4 Hash-based-Index
 
 
 [1] **MQH: Locality Sensitive Hashing on Multi-level Qantization Errors for Point-to-Hyperplane Distances** VLDB 2022. [paper](https://www.vldb.org/pvldb/vol16/p864-lu.pdf)
@@ -145,7 +145,7 @@ ___
 ---
 
 
-#### 4.2 Query Optimization
+#### 4.2 Query-Optimization
 
 
 **EI-LSH: An early-termination driven I/O efficient incremental c-approximate nearest neighbor search** VLDBJ 2021. [paper](https://link.springer.com/article/10.1007/s00778-020-00635-4)
@@ -156,7 +156,7 @@ ___
 
 
 
-#### 4.3 Learning to Hash (L2H)
+#### 4.3 Learning-to-Hash(L2H)
 
 
 待补充
