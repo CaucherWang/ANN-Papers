@@ -77,7 +77,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 ---
 
 
-### 2 Graph based Index [more](./Graph based Index.md)
+### 2 Graph based Index [more](./Graph-based-Index.md)
 
 
 (必读)[1] **Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchial Navigable Small World Graphs.** HNSW 2020. [paper](https://arxiv.org/pdf/1603.09320.pdf)
@@ -130,7 +130,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-### 3 Quantization based Index [more](./Quantization based Index.md)
+### 3 Quantization based Index [more](./Quantization-based-Index.md)
 
 
 （必读）[1] **Product Quantization for Nearest Neighbor Search** TPAMI 2019. [paper](https://hal.inria.fr/inria-00514462v2/document)
@@ -180,7 +180,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-### 4 Hash based Index [more](./Hash based Index.md)
+### 4 Hash based Index [more](./Hash-based-Index.md)
 
 
 (必读)[1] **Similarity Search in High Dimensions via Hashing** VLDB 1999. [paper](https://www.vldb.org/conf/1999/P49.pdf)
@@ -234,7 +234,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-### 5 Tree based Index [more](./Tree based Index.md)
+### 5 Tree based Index [more](./Tree-based-Index.md)
 
 
 (必读)[1]**Data Structures and Algorithms for Nearest Neighbor Search in General Metric Spaces** SODA 1993. [paper](https://dl.acm.org/doi/pdf/10.5555/313559.313789)
@@ -250,7 +250,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-### 6 Disk based Index [more](./Disk based Index.md)
+### 6 Disk based Index [more](./Disk-based-Index.md)
 
 
 待补充
