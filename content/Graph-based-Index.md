@@ -25,6 +25,14 @@ Contributions are always welcome! Make an individual pull request for each sugge
 # Paper Reading Togeter 🥰
 [paper reading list](https://github.com/Unstructured-Data-Community/talk/blob/main/paper-reading.md)
 
+# Content
+
+- 2 [Graph based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#graph-based-index)
+
+  - 2.1 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#query-optimization)
+  - 2.2 [New hardware acceleration](https://github.com/Unstructured-Data-Community/ANN-Papers#New-hardware-acceleration)
+  - 2.3 [kNN-graph](https://github.com/Unstructured-Data-Community/ANN-Papers#kNN-graph)
+
 ## Relevant papers
 
 ### 2 Graph based Index
