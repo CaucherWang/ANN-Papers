@@ -1,41 +1,16 @@
 # ANN-Papers
 
-<div align="center">
-<img border="0" src="https://camo.githubusercontent.com/54fdbe8888c0a75717d7939b42f3d744b77483b0/687474703a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f617765736f6d652e737667" />
-<img border="0" src="https://camo.githubusercontent.com/1ef04f27611ff643eb57eb87cc0f1204d7a6a14d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d254630253946253843253946266d6573736167653d496625323055736566756c267374796c653d7374796c653d666c617426636f6c6f723d424334453939" />
-<a href="https://github.com/Unstructured-Data-Community/ANN-Papers/issues">     <img border="0" src="https://img.shields.io/github/issues/Unstructured-Data-Community/ANN-Papers" /> </a>
-<a href="https://github.com/Unstructured-Data-Community/ANN-Papers/network/members">     <img border="0" src="https://img.shields.io/github/forks/Unstructured-Data-Community/ANN-Papers" /> </a>
-<a href="https://github.comUnstructured-Data-Community/ANN-Papers/stargazers">     <img border="0" src="https://img.shields.io/github/stars/Unstructured-Data-Community/ANN-Papers" /> </a>
-</div>
-
-# Introduction
-
-The project is a collection of recent research in areas such as ANN(Approximate Nearest Neighbor) and Vector Database, including research reports, academic papers and datasets etc.
-
-**We also hold regular paper readings together, so feel free to share your ideas. [link](https://github.com/Unstructured-Data-Community/talk/blob/main/paper-reading.md)**
-
-该项目收集了ANN（近似近邻搜索）和向量数据库等领域的最新研究，包括研究报告、学术论文和数据集等。
-
-**我们还会定期举办论文共读活动，欢迎共同交流。[链接](https://github.com/Unstructured-Data-Community/talk/blob/main/paper-reading.md)**
-
-# Contribution
-
-Contributions are always welcome! Make an individual pull request for each suggestion.
-
-# Paper Reading Togeter 🥰
-[paper reading list](https://github.com/Unstructured-Data-Community/talk/blob/main/paper-reading.md)
-
 # Content
 
-- 2 [Graph-based-Index](https://github.com/Unstructured-Data-Community/ANN-Papers/content#2-graph-based-index)
+- 3 [Graph-based-Index](https://github.com/Unstructured-Data-Community/ANN-Papers/content#3-graph-based-index)
 
-  - 2.1 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers/content#21-query-optimization)
-  - 2.2 [New hardware acceleration](https://github.com/Unstructured-Data-Community/ANN-Papers/content#22-new-hardware-acceleration)
-  - 2.3 [kNN graph](https://github.com/Unstructured-Data-Community/ANN-Papers/content#24-knn-graph)
+  - 3.1 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers/content#31-query-optimization)
+  - 3.2 [New hardware acceleration](https://github.com/Unstructured-Data-Community/ANN-Papers/content#32-new-hardware-acceleration)
+  - 3.3 [kNN graph](https://github.com/Unstructured-Data-Community/ANN-Papers/content#33-knn-graph)
 
 ## Relevant papers
 
-### 2 Graph based Index
+### 3 Graph based Index
 
 
 (必读)[1] **Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchial Navigable Small World Graphs** HNSW 2020. [paper](https://arxiv.org/pdf/1603.09320.pdf)
@@ -75,50 +50,32 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 
 ---
 
-[7] **DiskANN: Fast Accurate Billion-point Nearest Neighbor Search on a Single Node** NIPS 2019. [paper](https://dl.acm.org/doi/pdf/10.5555/3454287.3455520)
-
-*Suhas Jayaram Subramanya, Devvrit, Rohan Kadekodi, Ravishankar Krishaswamy, Harsha Vardhan Simhadri*
-
----
-
-[8] **FreshDiskANN: A Fast and Accurate Graph-Based ANN Index for Streaming Similarity Search** arXiv 2021. [paper](https://arxiv.org/pdf/2105.09613.pdf)
-
-*Singh, A., Subramanya, S.J., Krishnaswamy, R. and Simhadri, H.V.*
-
----
-
-[9] **EFANNA : An Extremely Fast Approximate Nearest Neighbor Search Algorithm Based on kNN Graph** arXiv 2016. [paper](https://arxiv.org/pdf/1609.07228.pdf)
-
-*Fu, C. and Cai, D.*
-
----
-
-[10] **FANNG: Fast Approximate Nearest Neighbour Graphs** CVPR 2016. [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Harwood_FANNG_Fast_Approximate_CVPR_2016_paper.pdf)
+[7] **FANNG: Fast Approximate Nearest Neighbour Graphs** CVPR 2016. [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Harwood_FANNG_Fast_Approximate_CVPR_2016_paper.pdf)
 
 *Ben Harwood and Tom Drummond*
 
 ---
 
-[11] **Graph-based Nearest Neighbor Search: From Practice to Theory** ICML 2020. [paper](https://arxiv.org/pdf/1907.00845.pdf)
+[8] **Graph-based Nearest Neighbor Search: From Practice to Theory** ICML 2020. [paper](https://arxiv.org/pdf/1907.00845.pdf)
 
 *Liudmila Prokhorenkova, Aleksandr Shekhovtsov*
 
 ---
 
-[12] **GraSP: Optimizing Graph-based Nearest Neighbor Search with Subgraph Sampling and Pruning** WSDM 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3488560.3498425)
+[9] **GraSP: Optimizing Graph-based Nearest Neighbor Search with Subgraph Sampling and Pruning** WSDM 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3488560.3498425)
 
 *Minjia Zhang, Wenhan Wang, Yuxiong He*
 
 ---
 
-[14]（small-world溯源，可参考） **The small-world phenomenon: an algorithmic perspective** STOC 2000. [paper](https://dl.acm.org/doi/pdf/10.1145/335305.335325)
+[10]（small-world溯源，可参考） **The small-world phenomenon: an algorithmic perspective** STOC 2000. [paper](https://dl.acm.org/doi/pdf/10.1145/335305.335325)
 
 *Jon Kleinberg*
 
 ---
 
 
-#### 2.1 Query Optimization
+#### 3.1 Query Optimization
 
 
 [1] **Learning-based query optimization for multi-probe approximate nearest neighbor search** VLDB 2022. [paper](https://link.springer.com/content/pdf/10.1007/s00778-022-00762-0.pdf)
@@ -139,26 +96,20 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 
 ---
 
-[4] **HQANN: Efficient and Robust Similarity Search for Hybrid Queries with Structured and Unstructured Constraints** CIKM '22: Proceedings of the 31st ACM International Conference on Information & Knowledge ManagementOctober 2022. [paper](https://arxiv.org/pdf/2207.07940.pdf)
-
-*Wei Wu, Junlin He, Yu Qiao, Guoheng Fu, Li Liu, Jin Yu*
-
----
-
-[5] **AUTOMATING NEAREST NEIGHBOR SEARCH CONFIGURATION WITH CONSTRAINED OPTIMIZATION** arXiv. [paper](https://arxiv.org/pdf/2301.01702.pdf)
+[4] **AUTOMATING NEAREST NEIGHBOR SEARCH CONFIGURATION WITH CONSTRAINED OPTIMIZATION** arXiv. [paper](https://arxiv.org/pdf/2301.01702.pdf)
 
 *Philip Sun, Ruiqi Guo, Sanjiv Kumar*
 
 ---
 
-[6] **Learning to Route in Similarity Graphs** ICML 2019. [paper](https://arxiv.org/pdf/1905.10987.pdf)
+[5] **Learning to Route in Similarity Graphs** ICML 2019. [paper](https://arxiv.org/pdf/1905.10987.pdf)
 
 *Dmitry Baranchuk, Dmitry Persiyanov, Anton Sinitsin, Artem Babenko*
 
 ---
 
 
-#### 2.2 New hardware acceleration
+#### 3.2 New hardware acceleration
 
 
 [1] **GPU-accelerated Proximity Graph Approximate Nearest Neighbor Search and Construction** ICDE 2022. [paper](https://ieeexplore.ieee.org/document/9835618)
@@ -186,7 +137,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-#### 2.3 kNN-graph
+#### 3.3 kNN-graph
 
 
 [1] **Efficient k-nearest neighbor graph construction for generic similarity measures** WWW 2011. [paper](https://www.cs.princeton.edu/cass/papers/www11.pdf)
