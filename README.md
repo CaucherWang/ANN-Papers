@@ -30,28 +30,31 @@ Contributions are always welcome! Make an individual pull request for each sugge
 # Content
 
 - 1 [Survey](https://github.com/Unstructured-Data-Community/ANN-Papers#1-survey)
-  - 1.1 [System](https://github.com/Unstructured-Data-Community/ANN-Papers#11-system)
 
-- 2 [Graph based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#2-graph-based-index)
+- 2 [System](https://github.com/Unstructured-Data-Community/ANN-Papers#2-system)
 
-  - 2.1 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#21-query-optimization)
-  - 2.2 [New hardware acceleration](https://github.com/Unstructured-Data-Community/ANN-Papers#22-new-hardware-acceleration)
-  - 2.3 [kNN-graph](https://github.com/Unstructured-Data-Community/ANN-Papers#23-knn-graph)
+- 3 [Graph based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#3-graph-based-index)
 
-- 3 [Quantization based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#3-quantization-based-index)
+  - 3.1 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#31-query-optimization)
+  - 3.2 [New hardware acceleration](https://github.com/Unstructured-Data-Community/ANN-Papers#32-new-hardware-acceleration)
+  - 3.3 [kNN-graph](https://github.com/Unstructured-Data-Community/ANN-Papers#33-knn-graph)
 
-  - 3.1 [New hardware acceleraton](https://github.com/Unstructured-Data-Community/ANN-Papers#31-new-hardware-acceleraton)
-  - 3.2 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#32-query-optimization)
+- 4 [Quantization based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#4-quantization-based-index)
 
-- 4 [Hash based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#4-hash-based-index)
-
-  - 4.1 [New hardware adaptation](https://github.com/Unstructured-Data-Community/ANN-Papers#41-new-hardware-adaptation)
+  - 4.1 [New hardware acceleraton](https://github.com/Unstructured-Data-Community/ANN-Papers#41-new-hardware-acceleraton)
   - 4.2 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#42-query-optimization)
-  - 4.3 [Learning to Hash(L2H)](https://github.com/Unstructured-Data-Community/ANN-Papers#43-learning-to-hash-l2h)
-  
-- 5 [Tree based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#5-tree-based-index)
 
-- 6 [Disk based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#6-dish-based-index)
+- 5 [Hash based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#5-hash-based-index)
+
+  - 5.1 [New hardware adaptation](https://github.com/Unstructured-Data-Community/ANN-Papers#51-new-hardware-adaptation)
+  - 5.2 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#52-query-optimization)
+  - 5.3 [Learning to Hash(L2H)](https://github.com/Unstructured-Data-Community/ANN-Papers#53-learning-to-hash-l2h)
+  
+- 6 [Tree based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#6-tree-based-index)
+
+- 7 [Disk based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#7-dish-based-index)
+
+- 8 [Hybrid Queries](https://github.com/Unstructured-Data-Community/ANN-Papers#8-hybrid-queries)
 
 ## Relevant papers
 
@@ -64,14 +67,14 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 ---
 
-(必读)[2] **New trends in high-D vector similarity search: al-driven, progressive, and distributed** VLDB 2021. [paper](http://vldb.org/pvldb/vol14/p3198-echihabi.pdf)[slid](https://vldb.org/2021/files/slides/tutorial/tutorial5.pdf)
+(必读)[2] **New trends in high-D vector similarity search: al-driven, progressive, and distributed** VLDB 2021. [paper](http://vldb.org/pvldb/vol14/p3198-echihabi.pdf)      [slid](https://vldb.org/2021/files/slides/tutorial/tutorial5.pdf)
 
 *Karima Echihabi, Kostas Zoumpatianos, Themis Palpanas*
 
 ---
 
 
-#### 1.1 System
+### 2 System [more](./content/System.md)
 
 
 待补充
@@ -79,7 +82,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 ---
 
 
-### 2 Graph based Index [more](./content/Graph-based-Index.md)
+### 3 Graph based Index [more](./content/Graph-based-Index.md)
 
 
 (必读)[1] **Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchial Navigable Small World Graphs** HNSW 2020. [paper](https://arxiv.org/pdf/1603.09320.pdf)
@@ -108,7 +111,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-#### 2.1 Query Optimization
+#### 3.1 Query Optimization
 
 
 待补充
@@ -116,7 +119,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-#### 2.2 New hardware acceleration
+#### 3.2 New hardware acceleration
 
 
 待补充
@@ -124,7 +127,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-#### 2.3 kNN-graph
+#### 3.3 kNN-graph
 
 
 待补充
@@ -132,7 +135,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-### 3 Quantization based Index [more](./content/Quantization-based-Index.md)
+### 4 Quantization based Index [more](./content/Quantization-based-Index.md)
 
 
 (必读)[1] **Product Quantization for Nearest Neighbor Search** TPAMI 2019. [paper](https://hal.inria.fr/inria-00514462v2/document)
@@ -166,7 +169,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-#### 3.1 New hardware acceleration
+#### 4.1 New hardware acceleration
 
 
 待补充
@@ -174,7 +177,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-#### 3.2 Query Optimization
+#### 4.2 Query Optimization
 
 
 待补充
@@ -182,7 +185,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-### 4 Hash based Index [more](./content/Hash-based-Index.md)
+### 5 Hash based Index [more](./content/Hash-based-Index.md)
 
 
 (必读)[1] **Similarity Search in High Dimensions via Hashing** VLDB 1999. [paper](https://www.vldb.org/conf/1999/P49.pdf)
@@ -210,7 +213,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-#### 4.1 Hardware adaptation
+#### 5.1 Hardware adaptation
 
 
 待补充
@@ -218,7 +221,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-#### 4.2 Query Optimization
+#### 5.2 Query Optimization
 
 
 待补充
@@ -227,7 +230,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 
 
 
-#### 4.3 Learning to Hash (L2H)
+#### 5.3 Learning to Hash (L2H)
 
 
 待补充
@@ -236,7 +239,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-### 5 Tree based Index [more](./content/Tree-based-Index.md)
+### 6 Tree based Index [more](./content/Tree-based-Index.md)
 
 
 (必读)[1]**Data Structures and Algorithms for Nearest Neighbor Search in General Metric Spaces** SODA 1993. [paper](https://dl.acm.org/doi/pdf/10.5555/313559.313789)
@@ -252,7 +255,15 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-### 6 Disk based Index [more](./content/Disk-based-Index.md)
+### 7 Disk based Index [more](./content/Disk-based-Index.md)
+
+
+待补充
+
+---
+
+
+### 8 Hybrid Queries [more](./content/Hybrid-Queries.md)
 
 
 待补充
