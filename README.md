@@ -213,7 +213,7 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 ---
 
 
-#### 5.1 Hardware adaptation
+#### 5.1 New Hardware adaptation
 
 
 待补充
