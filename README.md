@@ -29,32 +29,32 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 # Content
 
-- 1 [Survey](https://github.com/Unstructured-Data-Community/ANN-Papers#1-survey)
+- 1 [Survey](https://github.com/Unstructured-Data-Community/ANN-Papers#1-survey-more)
 
-- 2 [System](https://github.com/Unstructured-Data-Community/ANN-Papers#2-system)
+- 2 [System](https://github.com/Unstructured-Data-Community/ANN-Papers#2-system-more)
 
-- 3 [Graph based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#3-graph-based-index)
+- 3 [Graph based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#3-graph-based-index-more)
 
   - 3.1 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#31-query-optimization)
   - 3.2 [New hardware acceleration](https://github.com/Unstructured-Data-Community/ANN-Papers#32-new-hardware-acceleration)
   - 3.3 [kNN-graph](https://github.com/Unstructured-Data-Community/ANN-Papers#33-knn-graph)
 
-- 4 [Quantization based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#4-quantization-based-index)
+- 4 [Quantization based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#4-quantization-based-index-more)
 
   - 4.1 [New hardware acceleraton](https://github.com/Unstructured-Data-Community/ANN-Papers#41-new-hardware-acceleraton)
   - 4.2 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#42-query-optimization)
 
-- 5 [Hash based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#5-hash-based-index)
+- 5 [Hash based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#5-hash-based-index-more)
 
   - 5.1 [New hardware adaptation](https://github.com/Unstructured-Data-Community/ANN-Papers#51-new-hardware-adaptation)
   - 5.2 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#52-query-optimization)
   - 5.3 [Learning to Hash(L2H)](https://github.com/Unstructured-Data-Community/ANN-Papers#53-learning-to-hash-l2h)
   
-- 6 [Tree based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#6-tree-based-index)
+- 6 [Tree based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#6-tree-based-index-more)
 
-- 7 [Disk based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#7-dish-based-index)
+- 7 [Disk based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#7-dish-based-index-more)
 
-- 8 [Hybrid Queries](https://github.com/Unstructured-Data-Community/ANN-Papers#8-hybrid-queries)
+- 8 [Hybrid Queries](https://github.com/Unstructured-Data-Community/ANN-Papers#8-hybrid-queries-more)
 
 ## Relevant papers
 
