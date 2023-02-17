@@ -41,7 +41,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
 
 - 4 [Quantization based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#4-quantization-based-index-more)
 
-  - 4.1 [New hardware acceleraton](https://github.com/Unstructured-Data-Community/ANN-Papers#41-new-hardware-acceleraton)
+  - 4.1 [New hardware acceleraton](https://github.com/Unstructured-Data-Community/ANN-Papers#41-new-hardware-acceleration)
   - 4.2 [Query Optimization](https://github.com/Unstructured-Data-Community/ANN-Papers#42-query-optimization)
 
 - 5 [Hash based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#5-hash-based-index-more)
@@ -52,7 +52,7 @@ Contributions are always welcome! Make an individual pull request for each sugge
   
 - 6 [Tree based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#6-tree-based-index-more)
 
-- 7 [Disk based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#7-dish-based-index-more)
+- 7 [Disk based Index](https://github.com/Unstructured-Data-Community/ANN-Papers#7-disk-based-index-more)
 
 - 8 [Hybrid Queries](https://github.com/Unstructured-Data-Community/ANN-Papers#8-hybrid-queries-more)
 
