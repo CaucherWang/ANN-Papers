@@ -158,6 +158,12 @@ Volume 45, September 2014, Pages 61-68. [paper](https://www.sciencedirect.com/sc
 
 ---
 
+[4] **EFANNA : An Extremely Fast Approximate Nearest Neighbor Search Algorithm Based on kNN Graph** arXiv 2016. [paper](https://arxiv.org/pdf/1609.07228.pdf)
+
+*Fu, C. and Cai, D.*
+
+---
+
 
 持续更新中……
 
