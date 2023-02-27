@@ -12,7 +12,7 @@
 ### 4 Quantization based Index
 
 
-(必读)[1] **Product Quantization for Nearest Neighbor Search** TPAMI 2019. [paper](https://hal.inria.fr/inria-00514462v2/document)
+(必读)[1] **Product Quantization for Nearest Neighbor Search** TPAMI 2010. [paper](https://hal.inria.fr/inria-00514462v2/document)
 
 *Herve J ´ egou, Matthijs Douze, Cordelia Schmid*
 
